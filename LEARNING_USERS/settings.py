@@ -29,7 +29,7 @@ SECRET_KEY = '#!$8q)=6!bi5ki%r8)#z$=5@9*zgm@b1p=2(5qr+(bphv8_e9l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['nsakenov.pythonanywhere.com',]
 
 
 # Application definition
